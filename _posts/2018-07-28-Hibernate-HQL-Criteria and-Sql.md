@@ -2,7 +2,7 @@
 layout: post
 title: "Hibernate:HQL, Criteria and Sql"
 author: "Eddy Hu"
-categories: hibernate
+categories: journal
 tags: [hibernate,java]
 image: database.jpg
 ---
