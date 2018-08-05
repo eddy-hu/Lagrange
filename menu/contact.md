@@ -7,4 +7,4 @@ Email: eddy.hu#yahoo.com
 
 GitHub: http://github.com/eddy-hu
 
-Linkedin: http://linkedin.com/in/eddyhu
+LinkedIn: http://linkedin.com/in/eddyhu
