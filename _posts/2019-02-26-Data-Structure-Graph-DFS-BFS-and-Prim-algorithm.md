@@ -4,7 +4,7 @@ title: "Data Structure: Graph DFS, BFS and Prim algorithm"
 author: "Eddy Hu"
 categories: journal
 tags: [algorithm, data structure, java]
-image: graph.jpg
+image: graph.jepg
 ---
 
 
